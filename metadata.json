@@ -1,0 +1,6 @@
+{
+  "name": "SHIV DilSe AI",
+  "description": "एक संवेदनशील और समझदार रिलेशनशिप साथी जो हिंदी, Hinglish और English में रिश्तों की उलझनों, संवाद और भावनात्मक जुड़ाव पर दिल से सलाह देता है।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
